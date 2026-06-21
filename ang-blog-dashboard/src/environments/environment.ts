@@ -1,7 +1,7 @@
 export const environment = {
   production: true,
   firebaseConfig: {
-    apiKey: "AIzaSyCInhbCS2YMX4YU4ZbmlhOmjIcL-t8UYjA",
+    apiKey: "",
     authDomain: "ang-blog-2800e.firebaseapp.com",
     projectId: "ang-blog-2800e",
     storageBucket: "ang-blog-2800e.appspot.com",
